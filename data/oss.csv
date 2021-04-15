@@ -1,0 +1,16 @@
+﻿Name,Catagory,Platforms,Links
+Signal,Communication,All,https://signal.org/
+Threema,Communication,All,https://threema.ch/en
+Vinyl,Music Player,Android,https://github.com/AdrienPoupa/VinylMusicPlayer
+Bitwarden,Password Manager,All,https://bitwarden.com/
+Osmand,Map,Android,Fdroid
+Newpipe,Youtube,Android,https://newpipe.net/
+Tutanota,Email service,All,https://tutanota.com/
+Nitter,Twitter,All,nitter.org
+Fritter,Twitter,Android,Fdroid
+Picocrypt,Encryption tool,Linux/Windows,https://github.com/HACKERALERT/Picocrypt
+Cryptomator,Encryption Tool,All,https://cryptomator.org/
+ProtonVpn,Vpn,All,https://protonvpn.com/
+EDS Lite,Encryption Tool,Androdi,Fdroid
+Iceraven,Browser,Android,https://github.com/fork-maintainers/iceraven-browser
+Vanadium,Browser,Android,https://github.com/GrapheneOS/platform_external_vanadium/tree/11/prebuilt
