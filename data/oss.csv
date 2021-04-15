@@ -11,6 +11,12 @@ Fritter,Twitter,Android,Fdroid
 Picocrypt,Encryption tool,Linux/Windows,https://github.com/HACKERALERT/Picocrypt
 Cryptomator,Encryption Tool,All,https://cryptomator.org/
 ProtonVpn,Vpn,All,https://protonvpn.com/
-EDS Lite,Encryption Tool,Androdi,Fdroid
+EDS Lite,Encryption Tool,Android,https://f-droid.org/packages/com.sovworks.edslite
 Iceraven,Browser,Android,https://github.com/fork-maintainers/iceraven-browser
 Vanadium,Browser,Android,https://github.com/GrapheneOS/platform_external_vanadium/tree/11/prebuilt
+Nextcloud Notes,Notes,Android,https://f-droid.org/packages/it.niedermann.owncloud.notes
+Leaflet,Notes,Android,https://github.com/PotatoProject/Leaflet
+GMaps WV,Maps,Android,https://divestos.org/index.php?page=our_apps
+Bromite,Browser,Android,https://www.bromite.org/
+App Manager,Manager,Android,https://f-droid.org/packages/io.github.muntashirakon.AppManager
+RCX,Rclone,Android,https://github.com/x0b/rcx
